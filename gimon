@@ -1,0 +1,5 @@
+・タグやクラス名の入力補助？が出るときと出ないとき
+・要素の配置、余白（marginとかposition: staticとかrelativeとか）
+・ブロック要素（display: inline-block）（ナビの横揃えで出た）
+　floatとの違い？
+・div　とｈ1（ブロック要素？詰め横並びになる）の違い
